@@ -1,2 +1,3 @@
 # Project-1
-My DBMS project 
+My first Data Science project as a Graduate Student.
+
